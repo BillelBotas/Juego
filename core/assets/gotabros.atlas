@@ -1,0 +1,104 @@
+
+gotabros.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bucket
+  rotate: false
+  xy: 2, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+droplet
+  rotate: false
+  xy: 68, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 134, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+player_idle_down
+  rotate: false
+  xy: 291, 88
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+player_run_left
+  rotate: false
+  xy: 2, 20
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: 1
+player_run_left
+  rotate: false
+  xy: 27, 21
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: 4
+player_run_left
+  rotate: false
+  xy: 49, 22
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: 2
+player_run_left
+  rotate: false
+  xy: 313, 88
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: 3
+player_run_right
+  rotate: false
+  xy: 266, 86
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: 1
+player_run_right
+  rotate: false
+  xy: 266, 55
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: 4
+player_run_right
+  rotate: false
+  xy: 71, 22
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: 2
+player_run_right
+  rotate: false
+  xy: 335, 88
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: 3
+rock
+  rotate: false
+  xy: 200, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
